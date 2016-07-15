@@ -1,0 +1,12 @@
+body {
+	background-image: url("https://thumbs.dreamstime.com/z/flowery-wallpaper-background-22892620.jpg");
+	background-size: 100%;
+}
+
+.container {
+	-webkit-box-shadow: 0px 0px 21px -1px rgba(0,0,0,0.63);
+	-moz-box-shadow: 0px 0px 21px -1px rgba(0,0,0,0.63);
+	box-shadow: 0px 0px 21px -1px rgba(0,0,0,0.63);
+	background: white;
+	height: 100%;
+}
